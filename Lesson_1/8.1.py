@@ -22,8 +22,8 @@ all_data = []
 id = 0
 
 if not path.exists(file_base):
-with open(file_base, "w", encoding="utf-8") as _:
-pass
+    with open(file_base, "w", encoding="utf-8") as _:
+        pass
 
 
 def read_records():

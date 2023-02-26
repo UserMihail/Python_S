@@ -1,3 +1,5 @@
+# Готовый телефонный справочник
+
 from os import path
 
 file_base = "base.txt"
